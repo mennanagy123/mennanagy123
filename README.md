@@ -1,10 +1,20 @@
 # Welcome to Menna Nagy Profile ❤️💖!
 
-![Banner](your-banner-link)
 
-## 🌟 About Me  
-I am a passionate **Full Stack Developer** with a keen interest in creating **scalable web applications** and **innovative digital solutions**.  
-I believe in the power of **code** to transform ideas into reality and am committed to **continuous learning** and **excellence in software development**.
+🌟 About Me
+Hi, I'm Menna, a passionate Full Stack Developer who loves crafting scalable web applications and building innovative digital solutions. 
+
+I believe in the power of code to bring ideas to life and create meaningful user experiences. With a keen eye for detail and a drive for excellence, I continuously explore new technologies to enhance my skills and stay ahead in the ever-evolving tech world.
+
+✨What I Do Best:
+
+Creating intuitive and visually appealing user interfaces with HTML, CSS, JavaScript, and Flutter.
+Developing robust and efficient back-end systems using ASP.NET Core, APIs, and Node.js.
+Managing and optimizing data with SQL and Firebase.
+Ensuring seamless performance and user experience across platforms.
+Currently, I’m working on Event Hub, a platform that brings all events and activities into one place, making them easier to discover and access. 
+
+I'm always eager to learn, grow, and take on exciting challenges. My goal? To leave a mark in the tech world and build solutions that truly make a difference! 
 
 ---
 
@@ -32,8 +42,8 @@ I believe in the power of **code** to transform ideas into reality and am commit
 ---
 
 ### **📫 How to reach me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-profile)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](your-github-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-nagy-marwain-726380268/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mennanagy123)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=web&logoColor=white)](your-portfolio-link)  
 
 ---
