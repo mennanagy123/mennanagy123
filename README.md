@@ -82,9 +82,12 @@ I believe in the power of **code** to bring ideas to life and create meaningful 
 
 ## 📫 How to reach me
 
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-nagy-marwain-726380268/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mennanagy123)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=web&logoColor=white)](https://www.facebook.com/profile.php?id=100084547944997&locale=ar_AR)  
+📞 **Phone:** +201095644896
+
 
 ---
 
